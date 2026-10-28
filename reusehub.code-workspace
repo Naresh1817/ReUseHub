@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Frontend (React + Vite)",
+      "path": "frontend"
+    },
+    {
+      "name": "Backend (Spring Boot 3 + Java 21)",
+      "path": "backend"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
+
